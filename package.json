@@ -1,0 +1,35 @@
+{
+  "name": "mariophaser3ts",
+  "version": "0.1.0",
+  "dependencies": {},
+  "author": "Athuru4",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "phaser": "^3.16.2",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.4000",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthuru4/marioPhaser3Ts.git"
+  },
+  "keywords": [
+    "mario",
+    "Phaser",
+    "TypeScript",
+    "canvas",
+    "game"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthuru4/marioPhaser3Ts/issues"
+  },
+  "homepage": "https://github.com/Arthuru4/marioPhaser3Ts#readme",
+  "description": ""
+}
